@@ -1,6 +1,6 @@
 # NCTL Branding
 
-🚀 ![NCTL Logo](../assets/nctl.png)
+![NCTL Logo](../assets/nctl.png)
 
 ## Meaning of NCTL
 
