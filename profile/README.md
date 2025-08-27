@@ -26,6 +26,3 @@
 🔗 Network. Code. Test. Launch.  
 🌐 Network. Connect. Transform. Lead.
 
-## Author
-
-✍️ Trinh Minh Triet <contact@trinhminhtriet.com>
